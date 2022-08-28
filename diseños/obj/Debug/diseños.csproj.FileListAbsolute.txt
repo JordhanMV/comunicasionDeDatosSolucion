@@ -1,0 +1,16 @@
+F:\comunicasionDatosSolucion\diseños\bin\Debug\diseños.dll
+F:\comunicasionDatosSolucion\diseños\bin\Debug\diseños.pdb
+F:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.dll
+F:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.pdb
+E:\comunicasionDatosSolucion\diseños\bin\Debug\diseños.dll
+E:\comunicasionDatosSolucion\diseños\bin\Debug\diseños.pdb
+E:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.csproj.AssemblyReference.cache
+E:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.csproj.CoreCompileInputs.cache
+E:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.dll
+E:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.pdb
+D:\comunicasionDatosSolucion\diseños\bin\Debug\diseños.dll
+D:\comunicasionDatosSolucion\diseños\bin\Debug\diseños.pdb
+D:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.csproj.AssemblyReference.cache
+D:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.csproj.CoreCompileInputs.cache
+D:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.dll
+D:\comunicasionDatosSolucion\diseños\obj\Debug\diseños.pdb

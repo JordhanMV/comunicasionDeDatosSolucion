@@ -1,0 +1,5 @@
+F:\comunicasionDatosSolucion\validaciones\bin\Debug\validaciones.dll
+F:\comunicasionDatosSolucion\validaciones\bin\Debug\validaciones.pdb
+F:\comunicasionDatosSolucion\validaciones\obj\Debug\validaciones.csprojResolveAssemblyReference.cache
+F:\comunicasionDatosSolucion\validaciones\obj\Debug\validaciones.dll
+F:\comunicasionDatosSolucion\validaciones\obj\Debug\validaciones.pdb

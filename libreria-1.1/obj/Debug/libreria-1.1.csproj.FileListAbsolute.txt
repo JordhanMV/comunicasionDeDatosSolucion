@@ -1,0 +1,5 @@
+F:\comunicasionDatosSolucion\libreria-1.1\bin\Debug\libreria-1.1.dll
+F:\comunicasionDatosSolucion\libreria-1.1\bin\Debug\libreria-1.1.pdb
+F:\comunicasionDatosSolucion\libreria-1.1\obj\Debug\libreria-1.1.csprojResolveAssemblyReference.cache
+F:\comunicasionDatosSolucion\libreria-1.1\obj\Debug\libreria-1.1.dll
+F:\comunicasionDatosSolucion\libreria-1.1\obj\Debug\libreria-1.1.pdb

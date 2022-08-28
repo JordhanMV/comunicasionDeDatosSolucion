@@ -1,0 +1,64 @@
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe.config
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csprojResolveAssemblyReference.cache
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.login.resources
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.ping.resources
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.Properties.Resources.resources
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.GenerateResource.Cache
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.pdb
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.exe
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.pdb
+C:\Users\jordhan\Desktop\trabajo\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.resultados.resources
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe.config
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.exe
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.pdb
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.pdb
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.login.resources
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.ping.resources
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.Properties.Resources.resources
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.GenerateResource.cache
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.AssemblyReference.cache
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.login.resources
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.ping.resources
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.Properties.Resources.resources
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.GenerateResource.cache
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.CoreCompileInputs.cache
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.exe
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.pdb
+E:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe.config
+E:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe
+E:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.pdb
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.splachs.resources
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe.config
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.exe
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.pdb
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.exe
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\comunicasionDatos.pdb
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csprojResolveAssemblyReference.cache
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.login.resources
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.ping.resources
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.Properties.Resources.resources
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.splachs.resources
+F:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.GenerateResource.Cache
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.AssemblyReference.cache
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.SuggestedBindingRedirects.cache
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.CoreCompileInputs.cache
+D:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.CopyComplete
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\diseños.dll
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\diseños.pdb
+E:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\diseños.dll
+E:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\diseños.pdb
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.splachs.resources
+E:\comunicasionDatosSolucion\comunicasionDatos\obj\Debug\comunicasionDatos.csproj.CopyComplete
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\Test IP y Graficos.exe
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\LC_IP.dll
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\Test IP y Graficos.pdb
+F:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\LC_IP.pdb
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\diseños.dll
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\Test IP y Graficos.exe
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\LC_IP.dll
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\Test IP y Graficos.pdb
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\Test IP y Graficos.exe.config
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\diseños.pdb
+D:\comunicasionDatosSolucion\comunicasionDatos\bin\Debug\LC_IP.pdb

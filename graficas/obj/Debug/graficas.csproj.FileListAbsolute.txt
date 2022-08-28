@@ -1,0 +1,6 @@
+D:\comunicasionDatosSolucion\graficas\bin\Debug\graficas.dll
+D:\comunicasionDatosSolucion\graficas\bin\Debug\graficas.pdb
+D:\comunicasionDatosSolucion\graficas\obj\Debug\graficas.csproj.AssemblyReference.cache
+D:\comunicasionDatosSolucion\graficas\obj\Debug\graficas.csproj.CoreCompileInputs.cache
+D:\comunicasionDatosSolucion\graficas\obj\Debug\graficas.dll
+D:\comunicasionDatosSolucion\graficas\obj\Debug\graficas.pdb

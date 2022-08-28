@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e42cb4a-b4de-4821-a4bb-3a9167559e9e": {
+      "ProjectGuid": "3e42cb4a-b4de-4821-a4bb-3a9167559e9e",
+      "DisplayName": "comunicasionDatos",
+      "ColorIndex": 0
+    },
+    "cce1911a-1800-4439-aebb-b060a2ee6338": {
+      "ProjectGuid": "cce1911a-1800-4439-aebb-b060a2ee6338",
+      "DisplayName": "libreria.graficas",
+      "ColorIndex": 1
+    },
+    "d82a1685-fb36-46e0-ae4b-0baaaa090a2e": {
+      "ProjectGuid": "d82a1685-fb36-46e0-ae4b-0baaaa090a2e",
+      "DisplayName": "graficas",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
